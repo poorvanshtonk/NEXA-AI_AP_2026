@@ -1,5 +1,4 @@
 -- NEXA AI database schema for CP2.
--- Run this file on PostgreSQL 13 or later. The app still uses JSON files today;
 -- these tables describe the planned database-backed version.
 
 BEGIN;
